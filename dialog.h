@@ -7,7 +7,6 @@
 #include <QMessageBox>
 #include <QMouseEvent>
 #include <QPropertyAnimation>
-#include <QThread>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
